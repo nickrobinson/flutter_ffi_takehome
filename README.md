@@ -321,7 +321,6 @@ When complete, provide:
 
 1. **Your code** (`lib/` directory)
 2. **Brief notes** on:
-   - Time spent
    - Challenges faced
    - Design decisions
    - What you'd improve with more time
@@ -340,7 +339,3 @@ If you get stuck:
 ---
 
 **Good luck! We're excited to see your solution! 🚀**
-
-**Time Started:** _____________
-
-**Actual Time Taken:** _____________
