@@ -1,0 +1,7 @@
+/Users/nickrobinson/Development/sandbox/flutter-interview-module/C/build/CMakeFiles/dittoffi.dir
+/Users/nickrobinson/Development/sandbox/flutter-interview-module/C/build/CMakeFiles/edit_cache.dir
+/Users/nickrobinson/Development/sandbox/flutter-interview-module/C/build/CMakeFiles/rebuild_cache.dir
+/Users/nickrobinson/Development/sandbox/flutter-interview-module/C/build/CMakeFiles/list_install_components.dir
+/Users/nickrobinson/Development/sandbox/flutter-interview-module/C/build/CMakeFiles/install.dir
+/Users/nickrobinson/Development/sandbox/flutter-interview-module/C/build/CMakeFiles/install/local.dir
+/Users/nickrobinson/Development/sandbox/flutter-interview-module/C/build/CMakeFiles/install/strip.dir

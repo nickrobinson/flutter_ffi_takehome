@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o libdittoffi.dylib -install_name @rpath/libdittoffi.dylib CMakeFiles/dittoffi.dir/src/ditto.c.o
